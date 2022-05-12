@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 c6d982269e0d46f2423e391507325555639047aa Alex Wong <wongalexjx@gmail.com> 1643424257 -0800	clone: from https://github.com/BCIT-COMPUTING/lab-4---getting-to-know-the-fam-alexw_lab4
+c6d982269e0d46f2423e391507325555639047aa 5bf55d9d747a9be410f3556c524f993a07da83ea Alex Wong <wongalexjx@gmail.com> 1643434074 -0800	commit: general user created
+5bf55d9d747a9be410f3556c524f993a07da83ea bd6a2a7fb1e10c02a1556de18f5ccccfe182dba7 Alex Wong <wongalexjx@gmail.com> 1643434089 -0800	merge origin/master: Merge made by the 'recursive' strategy.
+bd6a2a7fb1e10c02a1556de18f5ccccfe182dba7 5be995605006d73a3a05263fb9e8a5095a27c36c Alex Wong <wongalexjx@gmail.com> 1643440753 -0800	commit: transaction finished test method for user created
+5be995605006d73a3a05263fb9e8a5095a27c36c a997203c3146b88d1cd11e017bfc7873336445c2 Alex Wong <wongalexjx@gmail.com> 1643441078 -0800	commit: fixed bug in transaction where it printed all in option 1, now it only prints last object in list

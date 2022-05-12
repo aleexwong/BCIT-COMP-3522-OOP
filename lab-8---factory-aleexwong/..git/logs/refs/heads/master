@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 5d73d513ad589d1fb98a05c57886aeb9eab3e1a0 Alex Wong <wongalexjx@gmail.com> 1647047062 -0800	clone: from https://github.com/BCIT-COMPUTING/lab-8---factory-aleexwong
+5d73d513ad589d1fb98a05c57886aeb9eab3e1a0 7f968d549d41f93acb6621831ccbcfd58b838921 Alex Wong <wongalexjx@gmail.com> 1647049441 -0800	commit: book,dvd,journal all converted to item abstract and is marked for deletion after factory is created.
+7f968d549d41f93acb6621831ccbcfd58b838921 0c2327bf861e99499f77e57191b6adca78a0d5b1 Alex Wong <wongalexjx@gmail.com> 1647055075 -0800	commit: Factories created and deletion of dvd, journal,library gen, book
+0c2327bf861e99499f77e57191b6adca78a0d5b1 aaff3562c0f9cb91774457ee12699a29b1603381 Alex Wong <wongalexjx@gmail.com> 1647064241 -0800	commit: clean up and slight cleaner print out.

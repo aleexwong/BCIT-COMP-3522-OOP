@@ -1,0 +1,1 @@
+added docstrings to asteroid.py and fixed datetime to wait to nearest second before printing/ removed unused imports

@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 95f99266c6ddfbac475d4f366ab4ce8c475d3d9d Alex Wong <wongalexjx@gmail.com> 1641942662 -0800	clone: from https://github.com/BCIT-COMPUTING/lab-2---off-with-a-bang-aleexwong
+95f99266c6ddfbac475d4f366ab4ce8c475d3d9d 265bb333adc06dc7e3664d6d838ab5be446a64c0 Alex Wong <wongalexjx@gmail.com> 1642151101 -0800	commit: added vector.py and asteroid
+265bb333adc06dc7e3664d6d838ab5be446a64c0 04f2af3a501f3b02992e3d4c3d74409fb867ddb8 Alex Wong <wongalexjx@gmail.com> 1642155368 -0800	commit: added print statements to main of asteroid.py
+04f2af3a501f3b02992e3d4c3d74409fb867ddb8 207772f230c623ef35109b36e6e04eb99c255922 Alex Wong <wongalexjx@gmail.com> 1642224909 -0800	commit: Finish without docstrings
+207772f230c623ef35109b36e6e04eb99c255922 96e1d7f7238b0a8103c0beb1c6fc9ce4cdd1f7ea Alex Wong <wongalexjx@gmail.com> 1642225314 -0800	commit: added docstrings and made public asteroid
+96e1d7f7238b0a8103c0beb1c6fc9ce4cdd1f7ea 0044673c423337d413017e4f76a4bca62946ca15 Alex Wong <wongalexjx@gmail.com> 1642225723 -0800	commit: removal of magic numbers in driver
+0044673c423337d413017e4f76a4bca62946ca15 551a998759a74fa2180f56ccfd07661dd1c866cf Alex Wong <wongalexjx@gmail.com> 1642225756 -0800	commit (amend): removal of magic numbers in driver
+551a998759a74fa2180f56ccfd07661dd1c866cf cf7ad347ee391c57df10a14d23d37e6f540aca57 Alex Wong <wongalexjx@gmail.com> 1642227583 -0800	commit: added docstrings to asteroid.py and fixed datetime to wait to nearest second before printing
+cf7ad347ee391c57df10a14d23d37e6f540aca57 18564867e3bc9f29890301ccdebd7261c96bb588 Alex Wong <wongalexjx@gmail.com> 1642227984 -0800	commit: added docstrings to asteroid.py and fixed datetime to wait to nearest second before printing/ removed unused imports

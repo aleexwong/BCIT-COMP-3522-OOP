@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 a3e0b72b9c585213889ce1e6da942bdb32e84cdf Alex Wong <wongalexjx@gmail.com> 1643950610 -0800	clone: from https://github.com/BCIT-COMPUTING/lab-5---testing-exceptions-and-file-handling-aleexwong
+a3e0b72b9c585213889ce1e6da942bdb32e84cdf 164d1c25da1683bc10a2d0fbe156c7bc8993f388 Alex Wong <wongalexjx@gmail.com> 1643967246 -0800	commit: dictonary fully works now, needs some code refactoring
+164d1c25da1683bc10a2d0fbe156c7bc8993f388 3155975c6a1117b9bcf5c59cf646b06b0bcb2268 Alex Wong <wongalexjx@gmail.com> 1644042107 -0800	commit: dictionary works, adding test cases now.
+3155975c6a1117b9bcf5c59cf646b06b0bcb2268 20dad9fe0766bdeb133dd55bcdd16cc3dce7c3fb Alex Wong <wongalexjx@gmail.com> 1644043688 -0800	commit: added test cases for test_dictonary.py
+20dad9fe0766bdeb133dd55bcdd16cc3dce7c3fb fda2f6f83d0df13837b9c233340b5dce43995396 Alex Wong <wongalexjx@gmail.com> 1644045154 -0800	commit: added test cases for file_handler.py
+fda2f6f83d0df13837b9c233340b5dce43995396 2504063428d354835e2b4b074acd864442852569 Alex Wong <wongalexjx@gmail.com> 1644045160 -0800	commit: added test cases for file_handler.py
+2504063428d354835e2b4b074acd864442852569 35966f54f1a7a3602ef44b046f9f3754c482b7a7 Alex Wong <wongalexjx@gmail.com> 1644047455 -0800	commit: added more test cases
+35966f54f1a7a3602ef44b046f9f3754c482b7a7 087903e80ca2035089c94fd7fd104a833e926616 Alex Wong <wongalexjx@gmail.com> 1644047532 -0800	commit: entering text cleaner

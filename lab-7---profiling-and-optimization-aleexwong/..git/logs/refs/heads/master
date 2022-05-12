@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 d994ea5d03511841d5612bf0f44126473a6d2897 Alex Wong <wongalexjx@gmail.com> 1646260890 -0800	clone: from https://github.com/BCIT-COMPUTING/lab-7---profiling-and-optimization-aleexwong
+d994ea5d03511841d5612bf0f44126473a6d2897 c9d372c0223ecfe9338b8f4bdc0227e0cee79aac Alex Wong <wongalexjx@gmail.com> 1646266631 -0800	commit: part 2 fastest
+c9d372c0223ecfe9338b8f4bdc0227e0cee79aac 18df55a2b174ff55946671abadc4ab098735ba4d Alex Wong <wongalexjx@gmail.com> 1646266734 -0800	commit: deleted commented out code.
